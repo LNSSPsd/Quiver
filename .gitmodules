@@ -1,0 +1,9 @@
+[submodule "arg-parser"]
+	path = arg-parser
+	url = git@github.com:minecraft-linux/arg-parser.git
+[submodule "CImg"]
+	path = CImg
+	url = git@github.com:dtschump/CImg
+[submodule "libpng"]
+	path = libpng
+	url = git@github.com:glennrp/libpng.git
